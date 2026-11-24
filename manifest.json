@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "philip.weather",
+  "name": "Weather",
+  "version": "1.0.0",
+  "author": "Omarchy",
+  "description": "Weather pill with detail popup",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "omarchy": {
+    "clonedFrom": "omarchy.weather"
+  },
+  "barWidget": {
+    "displayName": "Weather",
+    "description": "Weather pill with detail popup",
+    "category": "Info",
+    "allowMultiple": false,
+    "settingsForm": "weatherSettings"
+  }
+}
