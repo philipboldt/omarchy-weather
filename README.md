@@ -1,6 +1,6 @@
 # Omarchy Weather
 
-This plugin is based on the built-in weather widget from [Omarchy](https://github.com/omacom/omarchy/tree/quattro/shell/plugins/panels/weather). It uses the local plugin ID `philip.weather` and takes the stock weather widget's place in the bar when enabled.
+This standalone adaptation lives at [philipboldt/omarchy-weather](https://github.com/philipboldt/omarchy-weather) and is based on the built-in weather widget from [Omarchy](https://github.com/omacom/omarchy/tree/quattro/shell/plugins/panels/weather). It uses the local plugin ID `philip.weather` and takes the stock weather widget's place in the bar when enabled.
 
 ## Changes
 
