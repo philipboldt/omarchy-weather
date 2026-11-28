@@ -18,6 +18,12 @@ omarchy plugin add https://github.com/philipboldt/omarchy-weather.git --enable
 
 Right-click the weather icon to turn on the temperature readout.
 
+## Forecast data
+
+Use the forecast popup to select a location and switch between Celsius and
+Fahrenheit. The plugin uses Open-Meteo for forecasts and location search, with
+wttr.in as a fallback. Automatic location uses Omarchy's geolocation service.
+
 ## License
 
 MIT. See [LICENSE](LICENSE) for the upstream copyright notice.
